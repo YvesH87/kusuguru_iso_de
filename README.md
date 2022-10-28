@@ -1,4 +1,4 @@
-# Kusuguru
+# Kusuguru WiP
 
 An 3D printable Alice-like JIS-layout TKL mechanical keyboard
 
